@@ -1,4 +1,4 @@
-# UP-ITDC Inventory Management System
+# MC-CCS Inventory Management System
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
@@ -17,7 +17,7 @@
 
 ## 📖 About the Project
 
-The **UP-ITDC Inventory Management System** is a Laravel 12-based web application designed to manage staff, departments, and equipment efficiently.
+The **MC-CCS Inventory Management System** is a Laravel 12-based web application designed to manage staff, departments, and equipment efficiently.
 It provides features such as:
 
 * Staff & Department Management
